@@ -1,2 +1,2 @@
 # Bootstrap-
-Project that we made in Nu Camp Coding Camp 
+Website for Nu Camp camping gear  
